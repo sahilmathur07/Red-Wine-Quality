@@ -1,6 +1,6 @@
 # Red-Wine-Quality
 
-Libraries Used
+# Libraries Used
 
   1. Pandas
   2. Numpy
@@ -9,9 +9,13 @@ Libraries Used
   5. Matplotlib
 
 I used pandas for reading and manipulating data
+
 I used numpy for using array
+
 I used Scikit-Learn for building machine learning model
+
 I used seaborn for visualizations
+
 I used matplotlib for visualization and because seaborn plots are build using matplotlib
 
 # Problem Statement
