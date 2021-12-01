@@ -26,7 +26,12 @@ As we know that there are so many red wine brands in the market so need check th
 
 ![image](https://user-images.githubusercontent.com/37149683/144063129-3614c564-2540-4320-958c-47c520f77c14.png)
 
-Above countplot shows that there are less wines with 3,4,7,8 quality and large number of 5 and 6 quality wines. So i combined 3,4,5 and 6,7,8 into High and Low Quality 
+Above countplot shows that there are less wines with 3,4,7,8 quality and large number of 5 and 6 quality wines and for our machine learning model it is difficult to correctly predict the class with less data points. So i combined 3,4,5 and 6,7,8 into High and Low Quality
+And after dividing in to two classes our target variable looks like below diagram.
+
+![image](https://user-images.githubusercontent.com/37149683/144239399-b90aaeff-209a-45c0-886e-a7954c043b65.png)
+
+Now the target variable is distributed in balanced ratio
 
 #  Machine Learning Algorithms used
 
